@@ -1,0 +1,1 @@
+console.log('我将开始学习leetcode');
